@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>مصر</item>
+        <item>السعودية</item>
+    </string-array>
+
+    <string-array name="EG">
+        <item>القاهرة</item>
+        <item>الجيزة</item>
+        <item>الاسكندرية</item>
+        <item>الاسماعيلية</item>
+        <item>أسوان</item>
+        <item>أسيوط</item>
+        <item>الأقصر</item>
+        <item>البحر الأحمر</item>
+        <item>البحيرة</item>
+        <item>بني سويف</item>
+        <item>بور سعيد</item>
+        <item>جنوب سيناء</item>
+        <item>الدقهلية</item>
+        <item>دمياط</item>
+        <item>سوهاج</item>
+        <item>السويس</item>
+        <item>الشرقية</item>
+        <item>شمال سيناء</item>
+        <item>الغربية</item>
+        <item>الفيوم</item>
+        <item>القليوبية</item>
+        <item>قنا</item>
+        <item>كفر الشيخ</item>
+        <item>مطروح</item>
+        <item>المنوفية</item>
+        <item>المنيا</item>
+        <item>الوادي الجديد</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>السلام اول</item>
+        <item>السلام ثانِ</item>
+        <item>المرج</item>
+        <item>المطرية</item>
+        <item>النزهة</item>
+        <item>عين شمس</item>
+        <item>مدينة نصر شرق</item>
+        <item>مدينة نصر غرب</item>
+        <item>مصر الجديدة</item>
+        <item>الازبكية</item>
+        <item>الموسكي</item>
+        <item>الوايلي</item>
+        <item>باب الشعرية</item>
+        <item>بولاق</item>
+        <item>عابدين</item>
+        <item>غرب</item>
+        <item>منشية ناصر</item>
+        <item>شرق</item>
+        <item>15 مايو</item>
+        <item>البساتين</item>
+        <item>التبين</item>
+        <item>الخليفة</item>
+        <item>السيدة زينب</item>
+        <item>المعادي</item>
+        <item>المعصرة</item>
+        <item>المقطم</item>
+        <item>حلوان</item>
+        <item>دار السلام</item>
+        <item>طرة</item>
+        <item>مصر القديمة</item>
+        <item>الاميرية</item>
+        <item>الزاوية الحمرا</item>
+        <item>الزيتون</item>
+        <item>الساحل</item>
+        <item>الشرابية</item>
+        <item>حدائق القبة</item>
+        <item>روض الفرج</item>
+        <item>شبرا</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>6 اكتوبر</item>
+        <item>امبابة</item>
+        <item>الدقي</item>
+        <item>الصف</item>
+        <item>العياط</item>
+        <item>المنيب</item>
+        <item>بشتيل</item>
+        <item>حدائق 6 اكتوبر</item>
+        <item>صفط</item>
+        <item>كفر طهرمس</item>
+        <item>ابو رواش</item>
+        <item>البدرشين</item>
+        <item>الرماية</item>
+        <item>العجوزة</item>
+        <item>الكيت كات</item>
+        <item>المهندسين</item>
+        <item>بولاق الدكرور</item>
+        <item>حدائق الاهرام</item>
+        <item>سوميد</item>
+        <item>مركز الجيزة</item>
+        <item>أرض اللواء</item>
+        <item>البراجيل</item>
+        <item>الشيخ زايد</item>
+        <item>العزيزية</item>
+        <item>المريوطية</item>
+        <item>الهرم</item>
+        <item>ترسا</item>
+        <item>حي الجيزة</item>
+        <item>فيصل</item>
+        <item>ميت عقبة</item>
+        <item>اوسيم</item>
+        <item>الحوامدية</item>
+        <item>الصحفيين</item>
+        <item>العمرانية</item>
+        <item>المنصورية</item>
+        <item>الوراق</item>
+        <item>جزيرة الدهب</item>
+        <item>دهشور</item>
+        <item>كرداسة</item>
+        <item>ناهيا</item>
+    </string-array>
+
+    <string-array name="ALEX">
+        <item>سموحة</item>
+        <item>محطة الرمل</item>
+        <item>محرم بك</item>
+        <item>سيدي بشر</item>
+        <item>الابراهيمية</item>
+        <item>لوران</item>
+        <item>فيكتوريا</item>
+        <item>سبورتنج</item>
+        <item>سيدي جابر</item>
+        <item>مصطفى كامل</item>
+        <item>المنشية</item>
+        <item>سيدي بشر بحري</item>
+        <item>ميامي</item>
+        <item>رشدي</item>
+        <item>سيدي بشر قبلي</item>
+        <item>العصافرة قبلي</item>
+        <item>بولكلي</item>
+        <item>سيدي بشر الترام</item>
+        <item>البيطاش</item>
+        <item>الهانوفيل</item>
+        <item>السيوف</item>
+        <item>جليم</item>
+        <item>العجمي</item>
+        <item>العطارين</item>
+        <item>جناكليس</item>
+        <item>كليوباترا</item>
+        <item>الازاريطة</item>
+        <item>كامب شيراز</item>
+        <item>السيوف شماعة</item>
+        <item>الحضرة</item>
+        <item>الحضرة قبلي</item>
+        <item>الحضرة الجديدة</item>
+        <item>الحضرة بحري</item>
+        <item>باكوس</item>
+        <item>اللبان</item>
+        <item>العصافرة</item>
+        <item>سابا باشا</item>
+        <item>الجمرك</item>
+        <item>فلمينج</item>
+        <item>غبريال</item>
+        <item>العصافرة بحري</item>
+        <item>بحري</item>
+        <item>المندرة البحرية</item>
+        <item>كفر عبده</item>
+        <item>ابو يوسف</item>
+        <item>دليل الورديان</item>
+        <item>العامرية</item>
+        <item>كرموز</item>
+        <item>الشاطبي</item>
+        <item>محطة مصر</item>
+        <item>زيزينيا</item>
+        <item>ابوفير</item>
+        <item>غيط العنب</item>
+        <item>سان استيفانو</item>
+        <item>المعمورة</item>
+        <item>الهداية</item>
+        <item>المعمورة البلد</item>
+        <item>المعمورة الشاطئ</item>
+        <item>ستانلي</item>
+        <item>القباري</item>
+        <item>المندرة</item>
+        <item>السرايا</item>
+        <item>وابور المياه</item>
+        <item>سبورتنج الصغرى</item>
+        <item>الانفوشي</item>
+        <item>ميدان الساعة</item>
+        <item>المندرة قبلي</item>
+        <item>امبروزو</item>
+        <item>برج العرب الجديدة</item>
+        <item>مرغم</item>
+        <item>رأس التين</item>
+        <item>السيوف ترام</item>
+        <item>الطابية</item>
+        <item>كليوباترا المحطة</item>
+        <item>ثروت</item>
+        <item>المنتزة</item>
+        <item>برج العرب</item>
+        <item>راغب</item>
+        <item>السيوف بحري</item>
+        <item>كليوباترا الصغرى</item>
+        <item>كوم الدكة</item>
+        <item>كليوباترا حمامات</item>
+        <item>كينج مريوط</item>
+        <item>منطقة المطار</item>
+        <item>حجر النواتية</item>
+        <item>منشية النزهة</item>
+        <item>الباب الجديد</item>
+        <item>مينا البصل</item>
+        <item>الشلالات</item>
+        <item>السكة الجديدة</item>
+        <item>الرأس السوداء</item>
+        <item>دليل النزهة</item>
+        <item>غربال</item>
+        <item>شدس</item>
+        <item>ابيس</item>
+    </string-array>
+
+    <string-array name="ES">
+        <item>وسط البلد</item>
+        <item>الشيخ زايد</item>
+        <item>حي الافرنج</item>
+        <item>حي السلام</item>
+        <item>المحطة الجديدة</item>
+        <item>قنطرة غرب</item>
+        <item>الثلاثيني</item>
+        <item>حي الزهور</item>
+        <item>المستقبل</item>
+        <item>عرايشية مصر</item>
+        <item>المنطقة الصناعية</item>
+        <item>الخامسة</item>
+        <item>قنطرة شرق</item>
+        <item>منشية الشهداء</item>
+        <item>ابو صوير البلد</item>
+        <item>الفصاصين الجديدة</item>
+        <item>التل الكبير</item>
+        <item>فايد</item>
+        <item>نفيشة</item>
+    </string-array>
+
+    <string-array name="AS">
+        <item>اسوان</item>
+        <item>ادفو</item>
+        <item>كوم امبو</item>
+        <item>دراو</item>
+        <item>نصر النوبة</item>
+    </string-array>
+
+    <string-array name="AU">
+        <item>ابو تيج</item>
+        <item>الغنايم</item>
+        <item>ساحل سليم</item>
+        <item>ابنوب</item>
+        <item>الفتح</item>
+        <item>صدفا</item>
+        <item>اسيوط الجديدة</item>
+        <item>القوصية</item>
+        <item>اسيوط</item>
+        <item>البداري</item>
+        <item>ديروط</item>
+        <item>منفلوط</item>
+    </string-array>
+
+    <string-array name="LU">
+        <item>أرمنت</item>
+        <item>الاقصر الجديدة</item>
+        <item>إسنا</item>
+        <item>البياضية</item>
+        <item>الزينية</item>
+        <item>الطود</item>
+        <item>طيبة الجديدة</item>
+        <item>القرنة</item>
+    </string-array>
+
+    <string-array name="RS">
+        <item>رأس غارب</item>
+        <item>الغردقة</item>
+        <item>القصير</item>
+        <item>سفاجا</item>
+        <item>مرسى علم</item>
+        <item>شلاتين</item>
+        <item>حلايب</item>
+    </string-array>
+
+    <string-array name="BH">
+        <item>دمنهور</item>
+        <item>رشيد</item>
+        <item>كفر الدوار</item>
+        <item>كفر الزيات</item>
+        <item>كوم حمادة</item>
+        <item>إدكو</item>
+        <item>أبو المطامير</item>
+        <item>دلنجات</item>
+        <item>بدر</item>
+        <item>إيتاي البارود</item>
+    </string-array>
+
+    <string-array name="BS">
+        <item>بني سويف</item>
+        <item>الواسطى</item>
+        <item>ناصر</item>
+        <item>ببا</item>
+        <item>سمسطا</item>
+        <item>الفشن</item>
+        <item>ببا الجديدة</item>
+        <item>الواسطى الجديدة</item>
+        <item>ناصر القديمة</item>
+        <item>ناصر الجديدة</item>
+    </string-array>
+
+    <string-array name="PS">
+        <item>بورسعيد</item>
+        <item>المناخ</item>
+        <item>الزهور</item>
+        <item>المطرية</item>
+        <item>العرب</item>
+        <item>السويسي</item>
+    </string-array>
+
+    <string-array name="GS">
+        <item>شرم الشيخ</item>
+        <item>نويبع</item>
+        <item>طابا</item>
+        <item>دهب</item>
+        <item>رأس سدر</item>
+        <item>أبو رديس</item>
+        <item>سانت كاترين</item>
+    </string-array>
+
+    <string-array name="DK">
+        <item>المنصورة</item>
+        <item>المطرية</item>
+        <item>طلخا</item>
+        <item>دكرنس</item>
+        <item>بلقاس</item>
+        <item>ميت غمر</item>
+        <item>منية النصر</item>
+        <item>شربين</item>
+        <item>محلة دمنة</item>
+        <item>نبروه</item>
+    </string-array>
+
+    <string-array name="DM">
+        <item>دمياط</item>
+        <item>فارسكور</item>
+        <item>كفر سعد</item>
+        <item>رأس البر</item>
+        <item>الزرقا</item>
+        <item>دمياط الجديدة</item>
+        <item>المنزلة</item>
+        <item>كفر البطيخ</item>
+        <item>دماص</item>
+        <item>بورفؤاد</item>
+    </string-array>
+
+    <string-array name="SU">
+        <item>سوهاج</item>
+        <item>أخميم</item>
+        <item>طما</item>
+        <item>جرجا</item>
+        <item>دار السلام</item>
+        <item>المراغة</item>
+        <item>ساقلته</item>
+        <item>البلينا</item>
+        <item>المنشأة</item>
+    </string-array>
+
+    <string-array name="SW">
+        <item>السويس</item>
+        <item>العين السخنة</item>
+        <item>الأربعين</item>
+        <item>حي السلام</item>
+    </string-array>
+
+    <string-array name="SH">
+        <item>الزقازيق</item>
+        <item>بلبيس</item>
+        <item>منيا القمح</item>
+        <item>أبو حماد</item>
+        <item>فاقوس</item>
+        <item>العاشر من رمضان</item>
+        <item>الإبراهيمية</item>
+        <item>ديرب نجم</item>
+    </string-array>
+
+    <string-array name="SS">
+        <item>العريش</item>
+        <item>رفح</item>
+        <item>بئر العبد</item>
+        <item>الحسنة</item>
+        <item>الشيخ زويد</item>
+        <item>نخل</item>
+    </string-array>
+
+    <string-array name="GH">
+        <item>طنطا</item>
+        <item>المحلة الكبرى </item>
+        <item>زفتى</item>
+        <item>كفر الزيات</item>
+        <item>سمنود</item>
+        <item>بسيون</item>
+        <item>المحمودية</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>الفيوم</item>
+        <item>طامية</item>
+        <item>يوسف الصديق</item>
+        <item>سنورس</item>
+        <item>ابشوم</item>
+        <item>الناصرية</item>
+    </string-array>
+
+    <string-array name="QA">
+        <item>بنها</item>
+        <item>قليوب</item>
+        <item>شبرا الخيمة</item>
+        <item>الخانكة</item>
+        <item>طوخ</item>
+        <item>كفر شكر</item>
+    </string-array>
+
+    <string-array name="QE">
+        <item>قنا</item>
+        <item>أبو تشت</item>
+        <item>نجع حمادي</item>
+        <item>دشنا</item>
+        <item>أبو مطار</item>
+    </string-array>
+
+    <string-array name="KE">
+        <item>كفر الشيخ</item>
+        <item>دسوق</item>
+        <item>الحامول</item>
+        <item>المحمودية</item>
+        <item>بيلا</item>
+    </string-array>
+
+    <string-array name="Mat">
+        <item>مرسى مطروح</item>
+        <item>العلمين</item>
+        <item>الضبعة</item>
+        <item>الحمام</item>
+        <item>سيدي براني</item>
+        <item>السلوم</item>
+        <item>النجيلة</item>
+        <item>السلوم الجديدة</item>
+        <item>السلوم القديمة</item>
+        <item>براني</item>
+    </string-array>
+
+    <string-array name="Menf">
+        <item>شبين الكوم</item>
+        <item>المنصورة</item>
+        <item>بركة السبع</item>
+        <item>سرس الليان</item>
+        <item>الشهداء</item>
+        <item>أشمون</item>
+        <item>قويسنا</item>
+        <item>تلا</item>
+        <item>قليوب</item>
+        <item>بنها</item>
+        <item>منوف</item>
+        <item>تلات</item>
+        <item>بركة السبع</item>
+        <item>شهداء المنشاة</item>
+        <item>الباجور</item>
+        <item>السادات</item>
+        <item>منية النصر</item>
+        <item>أبو النمرس</item>
+        <item>كفر الشيخ الأقصر</item>
+        <item>قرقوش</item>
+    </string-array>
+
+    <string-array name="Min">
+        <item>المنيا</item>
+        <item>مغاغة</item>
+        <item>ديروط</item>
+        <item>سمالوط</item>
+        <item>ملوي</item>
+        <item>أبو قرقاص</item>
+        <item>العدوة</item>
+        <item>مطاي</item>
+        <item>بني مزار</item>
+        <item>أسيوط الفرع</item>
+        <item>الواحات الخارجة</item>
+        <item>منشأة ناصر</item>
+        <item>قوص</item>
+        <item>بني سويف الجديدة</item>
+        <item>ميت سلسيل</item>
+        <item>أبو قرقاص البحرية</item>
+        <item>منشأة أبو طير</item>
+        <item>أبو المطامير</item>
+        <item>الباجور</item>
+        <item>الوسطانية</item>
+    </string-array>
+
+    <string-array name="WG">
+        <item>الخارجة</item>
+        <item>الفرافرة</item>
+        <item>باريس</item>
+        <item>موط</item>
+        <item>الداخلة</item>
+        <item>بلاط</item>
+        <item>القارة</item>
+        <item>الجیش</item>
+        <item>الفرافرة الجدیدة</item>
+        <item>المغار</item>
+        <item>سيوة</item>
+        <item>أبو مطار</item>
+        <item>أبو مطار البحرية</item>
+        <item>المراغة</item>
+        <item>سيدي عبد الرحمن</item>
+        <item>النغرة</item>
+        <item>الخريمات</item>
+        <item>الدرغون</item>
+        <item>الهیثم</item>
+        <item>الواحة البحرية</item>
+    </string-array>
+</resources>

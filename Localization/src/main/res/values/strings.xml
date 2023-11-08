@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Egypt</item>
+        <item>Saudi Arabia</item>
+    </string-array>
+
+    <string-array name="EG">
+        <item>Cairo</item>
+        <item>Giza</item>
+        <item>Al-Exandria</item>
+        <item>Al-Esma\'elya</item>
+        <item>Aswan</item>
+        <item>Assuit</item>
+        <item>Luxor</item>
+        <item>Red Sea</item>
+        <item>Al-Beheira</item>
+        <item>Beni Suef</item>
+        <item>Port Said</item>
+        <item>South Sinai</item>
+        <item>Al-Dakahlia</item>
+        <item>Damietta</item>
+        <item>Sohag</item>
+        <item>Al-Suez</item>
+        <item>Al-Sharqia</item>
+        <item>North Sinai</item>
+        <item>Al-Gharbia</item>
+        <item>Al-Faiyum</item>
+        <item>Al-Qalyubia</item>
+        <item>Qena</item>
+        <item>Kafr el-Sheikh</item>
+        <item>Matrouh</item>
+        <item>Al-Monufia</item>
+        <item>Al-Menya</item>
+        <item>Al-Wadi El-Gded</item>
+    </string-array>
+
+    <string-array name="C">
+        <item>Al-Salam Awl</item>
+        <item>Al-Salam Than</item>
+        <item>Al-Marg</item>
+        <item>Al-Matareia</item>
+        <item>Al-Nozha</item>
+        <item>Ain Shams</item>
+        <item>Nasr City East</item>
+        <item>Nasr City West</item>
+        <item>Heliopolis</item>
+        <item>Al-Azbakia</item>
+        <item>Al-Moski</item>
+        <item>Al-Waily</item>
+        <item>Bab El-She\'ria</item>
+        <item>Bolaq</item>
+        <item>Aabdeen</item>
+        <item>West</item>
+        <item>Mansheit Nasser</item>
+        <item>East</item>
+        <item>15 May</item>
+        <item>Al-Bsateen</item>
+        <item>Al-Tbeen</item>
+        <item>Al-Khalefa</item>
+        <item>Al-Sayeda Zeinab</item>
+        <item>Al-Maadi</item>
+        <item>Al-Ma\'sara</item>
+        <item>Al-Mokatam</item>
+        <item>Helwan</item>
+        <item>Dar El-Salam</item>
+        <item>Tora</item>
+        <item>Ancient Egypt</item>
+        <item>Al-Ameria</item>
+        <item>Al-Zawya El-Hamra</item>
+        <item>Al-Zaiton</item>
+        <item>Al-Sahel</item>
+        <item>Al-Sharabia</item>
+        <item>Hada\'ek El-Koba</item>
+        <item>Rod El-Farag</item>
+        <item>Shoubra</item>
+    </string-array>
+
+    <string-array name="G">
+        <item>6 October</item>
+        <item>Embaba</item>
+        <item>Dokki</item>
+        <item>Al-Saf</item>
+        <item>Al-Ayat</item>
+        <item>Al-Mounib</item>
+        <item>Bashtiel</item>
+        <item>Hada\'ek 6 october</item>
+        <item>Saft</item>
+        <item>Kafr Tohormos</item>
+        <item>Abou Rawash</item>
+        <item>Al-Badrasheen</item>
+        <item>Al-Remaya</item>
+        <item>Al-Agoza</item>
+        <item>Al-Kit Kat</item>
+        <item>Al-Mohandseen</item>
+        <item>Bolaq El-dakror</item>
+        <item>Hada\'ek El-ahram</item>
+        <item>Soumid</item>
+        <item>Markaz El-Giza</item>
+        <item>Ard el-Lewaa\'</item>
+        <item>Al-brageel</item>
+        <item>Al-sheikh zayed</item>
+        <item>Al-Azizia</item>
+        <item>Al-Mariotia</item>
+        <item>Al-haram</item>
+        <item>Tersa</item>
+        <item>Hai El-Giza</item>
+        <item>Faisal</item>
+        <item>Meit Okba</item>
+        <item>Ousim</item>
+        <item>Al-hawamdia</item>
+        <item>Al-sahafieen</item>
+        <item>Al-omrania</item>
+        <item>Al-mansouria</item>
+        <item>Al-waraq</item>
+        <item>Gezeret El-Dahab</item>
+        <item>Dahshour</item>
+        <item>Kerdasa</item>
+        <item>Nahia</item>
+    </string-array>
+
+    <string-array name="ALEX">
+        <item>Smouha</item>
+        <item>Mahatet El-raml</item>
+        <item>Moharam beik</item>
+        <item>Seidy beshr</item>
+        <item>Al-ibrahemia</item>
+        <item>Loran</item>
+        <item>Vectoria</item>
+        <item>Sporting</item>
+        <item>Seidy gaber</item>
+        <item>Mostafa Kamel</item>
+        <item>Al-Manshia</item>
+        <item>Seidy beshr bahary</item>
+        <item>Miami</item>
+        <item>Roshdi</item>
+        <item>Seidy besh kebly</item>
+        <item>Al-asafra kebly</item>
+        <item>Bolkly</item>
+        <item>Seidy beshr tram</item>
+        <item>Al-betash</item>
+        <item>Al-hanoviel</item>
+        <item>Al-seiouf</item>
+        <item>Gleim</item>
+        <item>Al-agamy</item>
+        <item>Al-atareen</item>
+        <item>Gnakles</item>
+        <item>Keliopatra</item>
+        <item>Al-azarita</item>
+        <item>Camp sheraz</item>
+        <item>Al-seiouf shma\'a</item>
+        <item>Al-hadra</item>
+        <item>Al-hadra kebly</item>
+        <item>Al-hadra gdeda</item>
+        <item>Al-hadra bahary</item>
+        <item>Bakous</item>
+        <item>Al-laban</item>
+        <item>Al-asafra</item>
+        <item>Saba basha</item>
+        <item>Al-gomrok</item>
+        <item>Filming</item>
+        <item>Gebrial</item>
+        <item>Al-asafra bahary</item>
+        <item>Bahary</item>
+        <item>Al-mandara bahary</item>
+        <item>Kafr abdo</item>
+        <item>Abou youssef</item>
+        <item>Al-wardian</item>
+        <item>Al-amria</item>
+        <item>Karmouz</item>
+        <item>Al-shatby</item>
+        <item>Mahtet masr</item>
+        <item>Zeizinia</item>
+        <item>Abou qer</item>
+        <item>Ghet El-enab</item>
+        <item>San stefano</item>
+        <item>Al-ma\'moura</item>
+        <item>Al-hedaya</item>
+        <item>Al-ma\'moura el-balad</item>
+        <item>Al-ma\'moura el-shate\'</item>
+        <item>Stanly</item>
+        <item>Al-kbary</item>
+        <item>Al-mandara</item>
+        <item>Al-saraya</item>
+        <item>Wabour Al-maya</item>
+        <item>Sporting El-soghra</item>
+        <item>Al-anfoshy</item>
+        <item>Medan El-sa\'a</item>
+        <item>Al-mandara kebly</item>
+        <item>Amerozo</item>
+        <item>Borg El-arab gdeda</item>
+        <item>Merghem</item>
+        <item>Ras El-ten</item>
+        <item>Al-siouf tram</item>
+        <item>Al-tabia</item>
+        <item>Keliopatra Mahata</item>
+        <item>Tharwat</item>
+        <item>Al-montazah</item>
+        <item>Borg El-arab</item>
+        <item>Ragheb</item>
+        <item>Al-siouf bahary</item>
+        <item>Keliopatra kobra</item>
+        <item>Kom El-dekka</item>
+        <item>Keliopatra hamamat</item>
+        <item>King mariout</item>
+        <item>Matar</item>
+        <item>Hagr El-Nwateh</item>
+        <item>Manshiet El-nozha</item>
+        <item>Al-bab El-gded</item>
+        <item>Mena El-basal</item>
+        <item>Al-shalalat</item>
+        <item>Al-seka El-gdeda</item>
+        <item>Al-ras Al-soda\'</item>
+        <item>Al-Nozha</item>
+        <item>Ghorbal</item>
+        <item>Shads</item>
+        <item>Abees</item>
+    </string-array>
+
+    <string-array name="ES">
+        <item>West El-balad</item>
+        <item>Al-sheikh zaid</item>
+        <item>Hai Al-efrang</item>
+        <item>Hai Al-salam</item>
+        <item>Al-mahata El-gdeda</item>
+        <item>Kantra gharb</item>
+        <item>Al-thlatheny</item>
+        <item>Hai El-zhour</item>
+        <item>Al-mostakbal</item>
+        <item>Araishet Masr</item>
+        <item>Al-Mante\'a Al-sena\'ya</item>
+        <item>Al-khamsa</item>
+        <item>Kantra sharq</item>
+        <item>Manshiet El-shohad\'a</item>
+        <item>Abou Swear Al-balad</item>
+        <item>Al-fasasen El-gdeda</item>
+        <item>Al-tal El-kbeer</item>
+        <item>Fayed</item>
+        <item>Nafisha</item>
+    </string-array>
+
+    <string-array name="AS">
+        <item>Aswan</item>
+        <item>Edfo</item>
+        <item>Kom-Embo</item>
+        <item>Draaw</item>
+        <item>Nasr El-Noba</item>
+    </string-array>
+
+    <string-array name="AU">
+        <item>Abou Teg</item>
+        <item>Al-ghnayem</item>
+        <item>Sahel sleim</item>
+        <item>Abanoub</item>
+        <item>Al-fath</item>
+        <item>Sadfa</item>
+        <item>Assiut Al-gdeda</item>
+        <item>Al-kosseh</item>
+        <item>Assiut</item>
+        <item>Al-badary</item>
+        <item>Dairout</item>
+        <item>Manflout</item>
+    </string-array>
+
+    <string-array name="LU">
+        <item>Armant</item>
+        <item>Luxor Al-gdeda</item>
+        <item>Esna</item>
+        <item>Al-biadia</item>
+        <item>Al-zenia</item>
+        <item>Al-tod</item>
+        <item>Teba El-gdeda</item>
+        <item>Alkarna</item>
+    </string-array>
+
+    <string-array name="RS">
+        <item>Ra\'s ghareb</item>
+        <item>Ghardaka</item>
+        <item>Al-Kossair</item>
+        <item>Sfaga</item>
+        <item>Marsa Alam</item>
+        <item>Shalatein</item>
+        <item>Halaib</item>
+    </string-array>
+
+    <string-array name="BH">
+        <item>Damnhour</item>
+        <item>Rashid</item>
+        <item>Kafr Al-dawar</item>
+        <item>Kafr Al-zayat</item>
+        <item>Kom hamada</item>
+        <item>Edko</item>
+        <item>Abo Al-matamer</item>
+        <item>Delngat</item>
+        <item>Badr</item>
+        <item>Etai El-barod</item>
+    </string-array>
+
+    <string-array name="BS">
+        <item>Beni suif</item>
+        <item>Al-wasiti</item>
+        <item>Naser</item>
+        <item>Bba</item>
+        <item>Smsata</item>
+        <item>Al-feshn</item>
+        <item>Bba Al-gdeda</item>
+        <item>Al-wasty Al-gdeda</item>
+        <item>Naser Al-kadema</item>
+        <item>Naser Al-gdeda</item>
+    </string-array>
+
+    <string-array name="PS">
+        <item>Port saied</item>
+        <item>Al-manakh</item>
+        <item>Al-zhour</item>
+        <item>Al-mataria</item>
+        <item>Al-arab</item>
+        <item>Al-swissy</item>
+    </string-array>
+
+    <string-array name="GS">
+        <item>Sharm El-sheikh</item>
+        <item>Nuiba\'</item>
+        <item>Taba</item>
+        <item>Dahab</item>
+        <item>Ras sedr</item>
+        <item>Abo rdes</item>
+        <item>Sant katrien</item>
+    </string-array>
+
+    <string-array name="DK">
+        <item>Al-mansoura</item>
+        <item>Al-mataria</item>
+        <item>Talkha</item>
+        <item>Dekrnes</item>
+        <item>Belkas</item>
+        <item>Meit ghamr</item>
+        <item>Meniet Al-nasr</item>
+        <item>Sherbien</item>
+        <item>Mahlet demna</item>
+        <item>Nabroh</item>
+    </string-array>
+
+    <string-array name="DM">
+        <item>Dumiat</item>
+        <item>Farskour</item>
+        <item>Kafr sa\'d</item>
+        <item>Ras El-bar</item>
+        <item>Al-zarka</item>
+        <item>Dumiat Al-gadeda</item>
+        <item>Al-manzala</item>
+        <item>Kafr Al-batekh</item>
+        <item>Damas</item>
+        <item>Bour fou\'ad</item>
+    </string-array>
+
+    <string-array name="SU">
+        <item>Suhag</item>
+        <item>Akhmem</item>
+        <item>Tama</item>
+        <item>Gerga</item>
+        <item>Dar El-salam</item>
+        <item>Al-maragha</item>
+        <item>Saktla</item>
+        <item>Al-belena</item>
+        <item>Al-munsha\'a</item>
+    </string-array>
+
+    <string-array name="SW">
+        <item>Al-swies</item>
+        <item>Al-\'en Al-sokhna</item>
+        <item>Al-arb\'een</item>
+        <item>Hai Al-salam</item>
+    </string-array>
+
+    <string-array name="SH">
+        <item>Al-zagazig</item>
+        <item>Belbis</item>
+        <item>Menia Al-kamh</item>
+        <item>Abou hamad</item>
+        <item>Fakous</item>
+        <item>10th of Ramadan</item>
+        <item>Al-ibrahimia</item>
+        <item>Derb negm</item>
+    </string-array>
+
+    <string-array name="SS">
+        <item>Al-arish</item>
+        <item>Rafah</item>
+        <item>Be\'r Al-abd</item>
+        <item>Al-hosna</item>
+        <item>Al-shiekh zowied</item>
+        <item>Nakhl</item>
+    </string-array>
+
+    <string-array name="GH">
+        <item>Tanta</item>
+        <item>Al-mahla El-kobra</item>
+        <item>Zefta</item>
+        <item>Kafr El-zayat</item>
+        <item>Samnoud</item>
+        <item>Bassioun</item>
+        <item>Al-mahmoudia</item>
+    </string-array>
+
+    <string-array name="F">
+        <item>Al-fayoum</item>
+        <item>Tamia</item>
+        <item>Youssif Al-sedeik</item>
+        <item>Snouris</item>
+        <item>Abshoum</item>
+        <item>Al-nasria</item>
+    </string-array>
+
+    <string-array name="QA">
+        <item>Benha</item>
+        <item>Qaluob</item>
+        <item>Shoubra El-khema</item>
+        <item>Al-khanka</item>
+        <item>Toukh</item>
+        <item>Kafr shoukr</item>
+    </string-array>
+
+    <string-array name="QE">
+        <item>Qena</item>
+        <item>Abou qesht</item>
+        <item>Nag\' hamadi</item>
+        <item>Deshna</item>
+        <item>Abou matar</item>
+    </string-array>
+
+    <string-array name="KE">
+        <item>Kafr El-shiekh</item>
+        <item>Desouk</item>
+        <item>Al-hamoul</item>
+        <item>Al-mahmoudia</item>
+        <item>Bella</item>
+    </string-array>
+
+    <string-array name="Mat">
+        <item>Marsa Matroh</item>
+        <item>Al-alamen</item>
+        <item>Al-dab\'a</item>
+        <item>Al-hmam</item>
+        <item>Sedi brani</item>
+        <item>Al-salom</item>
+        <item>Al-ngela</item>
+        <item>Al-salom Al-gdeda</item>
+        <item>Al-salom Al-kadema</item>
+        <item>Brani</item>
+    </string-array>
+
+    <string-array name="Menf">
+        <item>Shebin El Koum</item>
+        <item>El Mansoura</item>
+        <item>Birket El Sab</item>
+        <item>Sers El-Liyan</item>
+        <item>El Shohadaa</item>
+        <item>Ashmun</item>
+        <item>Quesna</item>
+        <item>Tala</item>
+        <item>Kellinob</item>
+        <item>Benha</item>
+        <item>Menouf</item>
+        <item>Tulay Al-Fateh</item>
+        <item>Birket Al-Sab</item>
+        <item>Shahadat Al-Mansha</item>
+        <item>El-Bajur</item>
+        <item>El Sadat</item>
+        <item>Menyet El-Nasr</item>
+        <item>Abu El Nimiris</item>
+        <item>Kfar El-Shiekh El-Oqsor</item>
+        <item>Qerqas</item>
+    </string-array>
+
+    <string-array name="Min">
+        <item>Al-Minia</item>
+        <item>Maghagha</item>
+        <item>Dairot</item>
+        <item>Smalout</item>
+        <item>Mlawy</item>
+        <item>Abou kerkas</item>
+        <item>Al-adwa</item>
+        <item>Matai</item>
+        <item>Bani mazar</item>
+        <item>Assiut Al-far\'</item>
+        <item>Al-wahat Al-kharga</item>
+        <item>Mansha\'t Nasser</item>
+        <item>Kous</item>
+        <item>Beni suif Al-gdeda</item>
+        <item>Meit Salsel</item>
+        <item>Abou qerqas Al-baharia</item>
+        <item>Mansha\'t abou teer</item>
+        <item>Abou El-matamer</item>
+        <item>Al-bagour</item>
+        <item>Al-wastania</item>
+    </string-array>
+
+    <string-array name="WG">
+        <item>Al-Kharga</item>
+        <item>Al-Farafra</item>
+        <item>Paris</item>
+        <item>Mawat</item>
+        <item>Al-Dakhla</item>
+        <item>Bilat</item>
+        <item>Al-Qarah</item>
+        <item>Al-Gays</item>
+        <item>New Farafra</item>
+        <item>Al-Maghagh</item>
+        <item>Siwa</item>
+        <item>Abu Matar</item>
+        <item>Abu Matar El-Bahariya</item>
+        <item>Al-Maraghah</item>
+        <item>Sidi Abdel Rahman</item>
+        <item>Al-Naghrah</item>
+        <item>Al-Khareemat</item>
+        <item>Al-Dergon</item>
+        <item>Al-Heitham</item>
+        <item>Al-Wahat Al-Bahriya</item>
+    </string-array>
+
+</resources>
