@@ -518,4 +518,154 @@
         <item>الهیثم</item>
         <item>الواحة البحرية</item>
     </string-array>
+
+    <string-array name="Al_Riyad">
+        <item>مدينة الرياض</item>
+        <item>مدينة الخرج</item>
+        <item>مدينة الدوادمي</item>
+        <item>مدينة المجمعة</item>
+        <item>مدينة القصيم</item>
+        <item>مدينة الأفلاج</item>
+        <item>مدينة السليل</item>
+        <item>مدينة عفيف</item>
+        <item>مدينة المزاحمية</item>
+        <item>مدينة الزلفي</item>
+        <item>مدينة شقراء</item>
+        <item>مدينة حوطة بني تميم</item>
+        <item>مدينة ضرما</item>
+        <item>مدينة رماح</item>
+        <item>مدينة وادي الدواسر</item>
+        <item>مدينة ثادق</item>
+        <item>مدينة حريملاء</item>
+        <item>مدينة الحريق</item>
+        <item>مدينة الغاط</item>
+        <item>مدينة مرات</item>
+        <item>مدينة الدلم</item>
+        <item>مدينة الرين</item>
+    </string-array>
+
+    <string-array name="Makkah">
+        <item>مدينة مكة المكرمة</item>
+        <item>مدينة جدة</item>
+        <item>مدينة الطائف</item>
+        <item>مدينة القنفذة</item>
+        <item>مدينة الجموم</item>
+        <item>مدينة رابغ</item>
+        <item>مدينة الليث</item>
+        <item>مدينة خليص</item>
+        <item>مدينة اضم</item>
+        <item>مدينة تربة</item>
+        <item>مدينة الخرمة</item>
+        <item>مدينة رنية</item>
+        <item>مدينة الكامل</item>
+        <item>مدينة العرضيات</item>
+        <item>مدينة الموية</item>
+        <item>مدينة ميسان</item>
+        <item>مدينة بحرة</item>
+    </string-array>
+
+    <string-array name="AlMadinah">
+        <item>مدينة المدينة المنورة</item>
+        <item>مدينة ينبع</item>
+        <item>مدينة بدر</item>
+        <item>مدينة العلا</item>
+        <item>مدينة الحناكية</item>
+        <item>مدينة مهد الذهب</item>
+        <item>مدينة خيبر</item>
+        <item>مدينة السويرقية</item>
+        <item>مدينة العيص</item>
+        <item>مدينة وادي الفرع</item>
+    </string-array>
+
+    <string-array name="Tabuk">
+        <item>مدينة تبوك</item>
+        <item>مدينة أملج</item>
+        <item>مدينة تيماء</item>
+        <item>مدينة حقل</item>
+        <item>مدينة ضباء</item>
+        <item>مدينة الوجه</item>
+    </string-array>
+
+    <string-array name="Dammam">
+        <item>مدينة الدمام</item>
+        <item>مدينة الخبر</item>
+        <item>مدينة الجبيل</item>
+        <item>مدينة الظهران</item>
+        <item>مدينة القطيف</item>
+        <item>مدينة النعيرية</item>
+        <item>مدينة رأس تنور</item>
+    </string-array>
+
+    <string-array name="Al_Ahsa">
+        <item>مدينة الأحساء</item>
+        <item>مدينة الهفوف</item>
+        <item>مدينة المبرز</item>
+        <item>مدينة العيون</item>
+        <item>مدينة الطرف</item>
+        <item>مدينة العمران</item>
+        <item>مدينة الجفر</item>
+    </string-array>
+
+    <string-array name="HafarAlBatin">
+        <item>مدينة حفر الباطن</item>
+        <item>مدينة عرعر</item>
+        <item>مدينة سكاكا</item>
+        <item>مدينة القريات</item>
+        <item>مدينة دومة الجندل</item>
+        <item>مدينة حائل</item>
+        <item>مدينة القصيم</item>
+        <item>مدينة طريف</item>
+        <item>مدينة العويقليلة</item>
+        <item>مدينة شعبة نصاب</item>
+        <item>مدينة الجوف</item>
+    </string-array>
+
+    <string-array name="AlQassim">
+        <item>مدينة القصيم</item>
+        <item>مدينة عنيزة</item>
+        <item>مدينة بريدة</item>
+        <item>مدينة الرس</item>
+        <item>مدينة المذنب</item>
+        <item>مدينة البكيرية</item>
+        <item>مدينة البدائع</item>
+        <item>مدينة الأسياح</item>
+        <item>مدينة النبهاني</item>
+    </string-array>
+
+    <string-array name="Asir">
+        <item>مدينة أبها</item>
+        <item>مدينة خميس مشيط</item>
+        <item>مدينة بيشه</item>
+        <item>مدينة النماص</item>
+        <item>مدينة محايل عسير</item>
+        <item>مدينة رجال المع</item>
+    </string-array>
+
+    <string-array name="Bisha">
+        <item>مدينة بيشة</item>
+        <item>مدينة تربة</item>
+        <item>مدينة الخرمة</item>
+        <item>مدينة الباحة</item>
+        <item>مدينة المخواة</item>
+    </string-array>
+
+    <string-array name="Jizan">
+        <item>مدينة جيزان</item>
+        <item>مدينة صامطة</item>
+        <item>مدينة فيفا</item>
+        <item>مدينة آبو عريش</item>
+        <item>مدينة بيش</item>
+        <item>مدينة صامطة</item>
+        <item>مدينة احد المسارحة</item>
+        <item>مدينة الطوال</item>
+        <item>مدينة الدرب</item>
+        <item>مدينة بارك</item>
+        <item>مدينة القوز</item>
+    </string-array>
+
+    <string-array name="Najran">
+        <item>مدينة نجران</item>
+        <item>مدينة شرورة</item>
+        <item>مدينة وادي الدواسر</item>
+    </string-array>
 </resources>

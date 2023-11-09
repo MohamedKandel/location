@@ -519,4 +519,153 @@
         <item>Al-Wahat Al-Bahriya</item>
     </string-array>
 
+    <string-array name="Al_Riyad">
+        <item>مدينة الرياض</item>
+        <item>مدينة الخرج</item>
+        <item>مدينة الدوادمي</item>
+        <item>مدينة المجمعة</item>
+        <item>مدينة القصيم</item>
+        <item>مدينة الأفلاج</item>
+        <item>مدينة السليل</item>
+        <item>مدينة عفيف</item>
+        <item>مدينة المزاحمية</item>
+        <item>مدينة الزلفي</item>
+        <item>مدينة شقراء</item>
+        <item>مدينة حوطة بني تميم</item>
+        <item>مدينة ضرما</item>
+        <item>مدينة رماح</item>
+        <item>مدينة وادي الدواسر</item>
+        <item>مدينة ثادق</item>
+        <item>مدينة حريملاء</item>
+        <item>مدينة الحريق</item>
+        <item>مدينة الغاط</item>
+        <item>مدينة مرات</item>
+        <item>مدينة الدلم</item>
+        <item>مدينة الرين</item>
+    </string-array>
+
+    <string-array name="Makkah">
+        <item>مدينة مكة المكرمة</item>
+        <item>مدينة جدة</item>
+        <item>مدينة الطائف</item>
+        <item>مدينة القنفذة</item>
+        <item>مدينة الجموم</item>
+        <item>مدينة رابغ</item>
+        <item>مدينة الليث</item>
+        <item>مدينة خليص</item>
+        <item>مدينة اضم</item>
+        <item>مدينة تربة</item>
+        <item>مدينة الخرمة</item>
+        <item>مدينة رنية</item>
+        <item>مدينة الكامل</item>
+        <item>مدينة العرضيات</item>
+        <item>مدينة الموية</item>
+        <item>مدينة ميسان</item>
+        <item>مدينة بحرة</item>
+    </string-array>
+
+    <string-array name="AlMadinah">
+        <item>مدينة المدينة المنورة</item>
+        <item>مدينة ينبع</item>
+        <item>مدينة بدر</item>
+        <item>مدينة العلا</item>
+        <item>مدينة الحناكية</item>
+        <item>مدينة مهد الذهب</item>
+        <item>مدينة خيبر</item>
+        <item>مدينة السويرقية</item>
+        <item>مدينة العيص</item>
+        <item>مدينة وادي الفرع</item>
+    </string-array>
+
+    <string-array name="Tabuk">
+        <item>مدينة تبوك</item>
+        <item>مدينة أملج</item>
+        <item>مدينة تيماء</item>
+        <item>مدينة حقل</item>
+        <item>مدينة ضباء</item>
+        <item>مدينة الوجه</item>
+    </string-array>
+
+    <string-array name="Dammam">
+        <item>مدينة الدمام</item>
+        <item>مدينة الخبر</item>
+        <item>مدينة الجبيل</item>
+        <item>مدينة الظهران</item>
+        <item>مدينة القطيف</item>
+        <item>مدينة النعيرية</item>
+        <item>مدينة رأس تنور</item>
+    </string-array>
+
+    <string-array name="Al_Ahsa">
+        <item>Al-Ahsa City</item>
+        <item>Al-Hofuf City</item>
+        <item>Al-Mubarraz City</item>
+        <item>Al-Ayun City</item>
+        <item>Al-Tarf City</item>
+        <item>Al-Umran City</item>
+        <item>Al-Jafar City</item>
+    </string-array>
+
+    <string-array name="HafarAlBatin">
+        <item>Hafar Al-Batin City</item>
+        <item>Arar City</item>
+        <item>Sakaka City</item>
+        <item>Al-Qurayyat City</item>
+        <item>Dumat Al-Jandal City</item>
+        <item>Hail City</item>
+        <item>Al-Qassim City</item>
+        <item>Turaif City</item>
+        <item>Al-Oyaynah City</item>
+        <item>Shu\'bah Nisab City</item>
+        <item>Al-Jawf City</item>
+    </string-array>
+
+    <string-array name="AlQassim">
+        <item>Al-Qassim City</item>
+        <item>Onaizah City</item>
+        <item>Buraydah City</item>
+        <item>Ar Rass City</item>
+        <item>Al-Mithnab City</item>
+        <item>Al-Bukayriyah City</item>
+        <item>Al-Bada\'i City</item>
+        <item>Al-Asyah City</item>
+        <item>Al-Nabhani City</item>
+    </string-array>
+
+    <string-array name="Asir">
+        <item>Abha City</item>
+        <item>Khamis Mushait City</item>
+        <item>Bisha City</item>
+        <item>Al-Namas City</item>
+        <item>Muhayil Asir City</item>
+        <item>Rijal Alma City</item>
+    </string-array>
+
+    <string-array name="Bisha">
+        <item>Bisha City</item>
+        <item>Tarbah City</item>
+        <item>Al-Khurma City</item>
+        <item>Al-Baha City</item>
+        <item>Al-Mikhwah City</item>
+    </string-array>
+
+    <string-array name="Jizan">
+        <item>Jizan City</item>
+        <item>Sabya City</item>
+        <item>Faifa City</item>
+        <item>Abu Arish City</item>
+        <item>Bisha City</item>
+        <item>Sabya City</item>
+        <item>Ahd Al-Masarha City</item>
+        <item>Al-Twal City</item>
+        <item>Al-Darb City</item>
+        <item>Bareq City</item>
+        <item>Al-Qoz City</item>
+    </string-array>
+
+    <string-array name="Najran">
+        <item>Najran City</item>
+        <item>Sharurah City</item>
+        <item>Wadi Al-Dawasir City</item>
+    </string-array>
 </resources>
