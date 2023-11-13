@@ -623,18 +623,18 @@
     </string-array>
 
     <string-array name="Al_Baha">
-        <item>الباحة</item>
-        <item>بالقرشي</item>
-        <item>المندق</item>
-        <item>المخواة</item>
-        <item>قلوة</item>
+        <item>مدينة الباحة</item>
+        <item>مدينة بالقرشي</item>
+        <item>مدينةالمندق</item>
+        <item>مدينة المخواة</item>
+        <item>مدينة قلوة</item>
     </string-array>
 
     <string-array name="Al_Jouf">
-        <item>الجوف</item>
-        <item>سكاكا</item>
-        <item>القريات</item>
-        <item>دومةالجندل </item>
+        <item>مدينة الجوف</item>
+        <item>مدينة سكاكا</item>
+        <item>مدينة القريات</item>
+        <item>مدينةدومةالجندل</item>
     </string-array>
 
     <string-array name="Saudia_Govs">
